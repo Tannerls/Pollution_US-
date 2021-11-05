@@ -5,7 +5,7 @@
 ## Purpose.
 - The data we acquired was in form of a csv file that contained different cities AQI levels everyday for a whole year. The most harmful pollutant is CO, we focused on this pollutant to evaluate pollutions trends. Using this data, we were able to display the trend over time and ultimately predict upcoming pollution trends. We displayed the cities with the highest and lowest levels. 
 
-# Project
+# Project.
 - Using PgAdmin, we uploaded the csv file, we extracted data, and transformed it into a data frame. As portrayed below:![PgAdmin_table](https://user-images.githubusercontent.com/83738699/140443288-b20d7fa5-b4f3-4cd5-9f6d-f9192376dd25.PNG)
 
 
