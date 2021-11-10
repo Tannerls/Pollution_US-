@@ -1,0 +1,16 @@
+SELECT * FROM pollution;
+
+SELECT MAX(co_agi) FOR city
+FROM POLLUTION;
+
+SELECT
+	city,
+	MAX (co_agi)
+FROM
+	pollution
+GROUP BY
+	city
+ORDER BY 
+	max 
+DESC NULLS LAST
+	;
