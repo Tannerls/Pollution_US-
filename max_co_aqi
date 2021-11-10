@@ -1,11 +1,13 @@
 SELECT * FROM pollution;
 
+SELECT * FROM pollution WHERE site_num=1;
+
 SELECT MAX(co_agi) FOR city
 FROM POLLUTION;
 
 SELECT
 	city,
-	MAX (co_agi)
+	MAX ("co_agi")
 FROM
 	pollution
 GROUP BY
@@ -14,3 +16,26 @@ ORDER BY
 	max 
 DESC NULLS LAST
 	;
+	
+	
+	
+SELECT
+	city,
+	Min ("co_agi")
+FROM
+	pollution
+GROUP BY
+	city
+ORDER BY 
+	min 
+DESC NULLS LAST
+	;
+	
+	
+SELECT city, avg(co_agi) as Average
+	FROM pollution
+	GROUP BY city
+	ORDER BY Average;
+
+SELECT * FROM pollution WHERE city = 'Mexicali';
+	
