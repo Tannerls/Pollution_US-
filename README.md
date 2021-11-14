@@ -6,11 +6,14 @@
 - The data we acquired was in form of a csv file that contained different cities AQI levels everyday for a whole year. The dataset was obtained from Kaggle website. The most harmful pollutant is CO therefore we focused on this pollutant to evaluate pollutions levels. Using this data, we were able to display the trend over time and ultimately predict upcoming pollution trends. We displayed the cities with the highest and lowest levels. 
 
 ## Project.
-- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and transformed it into a data frame. As portrayed below:![PgAdmin_table](https://user-images.githubusercontent.com/83738699/140443288-b20d7fa5-b4f3-4cd5-9f6d-f9192376dd25.PNG)
+- The machine learning model was created using Jupyter Notebook. We imported all the necessary dependencies,
+![image](https://user-images.githubusercontent.com/85714314/141696515-cd9e6dc8-b7eb-4a89-a778-18837daa9d34.png)
 
-
-## Results.
-
+  and then proceeded to run train split test on our x and y valuables. 
+- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and           transformed it into a data frames. We created two tables to display the most and least polluted cities in the past few years. An inner injoin was used to compare the pollution   levels as the years went by.
+![inward join](https://user-images.githubusercontent.com/85714314/141696838-428ec740-021f-4792-bcd7-9df326df8918.png)
+ 
+![2 cities](https://user-images.githubusercontent.com/85714314/141696905-b681434f-16c3-46bf-b172-a3fc17545002.png)
 
 
 ## Summary.
