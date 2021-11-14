@@ -7,10 +7,19 @@
 
 ## Project.
 - The machine learning model was created using Jupyter Notebook. We imported all the necessary dependencies,
-![image](https://user-images.githubusercontent.com/85714314/141696515-cd9e6dc8-b7eb-4a89-a778-18837daa9d34.png)
 
-  and then proceeded to run train split test on our x and y valuables. 
+<img width="1009" alt="Project_Dependencies" src="https://user-images.githubusercontent.com/25447945/141702489-f92fee95-df97-4a90-b5e9-cfba5246585a.png">
+
+  and then used sqlalchemy to connect our database with the machine learning model.
+  
+ <img width="1018" alt="sqlalchemy" src="https://user-images.githubusercontent.com/25447945/141702659-af22c579-5b86-4819-b478-40c89e23a7e8.png">
+ 
+  and proceeded to run train split test on our x and y valuables. 
+  
+  <img width="1029" alt="Splitandfeatures" src="https://user-images.githubusercontent.com/25447945/141702697-c90e64d6-05ff-4e20-a699-2ea2fb9e4a35.png">
+  
 - Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and           transformed it into a data frames. 
+- Using Tableau to create dashboard to portray our visualization about the pollutuon in US and then discuss about most and least polluted city in US. 
 
 
 ## Summary.
