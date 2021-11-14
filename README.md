@@ -25,6 +25,6 @@
 
 
 ## Resources.
-- CSV, Tableau, Jupyter Notebook, pgAdmin.
+- CSV, Tableau, Jupyter Notebook, pgAdmin, AWS RDS.
 - NRDC.org (National Resources Defence Council)
 
