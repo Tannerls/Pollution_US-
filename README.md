@@ -10,10 +10,7 @@
 ![image](https://user-images.githubusercontent.com/85714314/141696515-cd9e6dc8-b7eb-4a89-a778-18837daa9d34.png)
 
   and then proceeded to run train split test on our x and y valuables. 
-- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and           transformed it into a data frames. We created two tables to display the most and least polluted cities in the past few years. An inner injoin was used to compare the pollution   levels as the years went by.
-![inward join](https://user-images.githubusercontent.com/85714314/141696838-428ec740-021f-4792-bcd7-9df326df8918.png)
- 
-![2 cities](https://user-images.githubusercontent.com/85714314/141696905-b681434f-16c3-46bf-b172-a3fc17545002.png)
+- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and           transformed it into a data frames. 
 
 
 ## Summary.
