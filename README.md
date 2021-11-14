@@ -6,7 +6,7 @@
 - The data we acquired was in form of a csv file that contained different cities AQI levels everyday for a whole year. The dataset was obtained from Kaggle website. The most harmful pollutant is CO therefore we focused on this pollutant to evaluate pollutions levels. Using this data, we were able to display the trend over time and ultimately predict upcoming pollution trends. We displayed the cities with the highest and lowest levels. 
 
 ## Project.
-- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PgAdmin, we uploaded the csv file, extracted data, and transformed it into a data frame. As portrayed below:![PgAdmin_table](https://user-images.githubusercontent.com/83738699/140443288-b20d7fa5-b4f3-4cd5-9f6d-f9192376dd25.PNG)
+- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extracted data, and transformed it into a data frame. As portrayed below:![PgAdmin_table](https://user-images.githubusercontent.com/83738699/140443288-b20d7fa5-b4f3-4cd5-9f6d-f9192376dd25.PNG)
 
 
 ## Results.
