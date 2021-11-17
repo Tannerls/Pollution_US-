@@ -8,11 +8,11 @@
 ## Project.
 - The machine learning model was created using Jupyter Notebook. We imported all the necessary dependencies,
 
-![Capture](https://user-images.githubusercontent.com/83738699/142089716-e81a983a-2caa-4bcb-a9b9-498fa6e0c778.PNG)
+![dependdencies](https://user-images.githubusercontent.com/83738699/142091251-0b188841-469b-4a93-bc3d-845105d964e8.PNG)
 
-  and then used sqlalchemy to connect our database with the machine learning model.
+ and then used sqlalchemy to connect our database with the machine learning model.
   
- <img width="1018" alt="sqlalchemy" src="https://user-images.githubusercontent.com/25447945/141702659-af22c579-5b86-4819-b478-40c89e23a7e8.png">
+![Capture](https://user-images.githubusercontent.com/83738699/142089716-e81a983a-2caa-4bcb-a9b9-498fa6e0c778.PNG)
  
   Proceeded to run train split test on our x and y valuables. 
   
