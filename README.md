@@ -18,8 +18,8 @@
   
   <img width="1029" alt="Splitandfeatures" src="https://user-images.githubusercontent.com/25447945/141702697-c90e64d6-05ff-4e20-a699-2ea2fb9e4a35.png">
   
-- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extract data, and           transform it into a data frames. 
-- Used Tableau to create dashboard to portray our visualization about the pollution in US and then discuss about most and least polluted city in US. 
+- Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extract data, and           transform it into data frames. 
+- Used Tableau to create dashboard to portray our visualization about the pollution in US and, then discuss the most and least polluted city in US. 
 
 
 ## Summary.
