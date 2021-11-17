@@ -8,7 +8,7 @@
 ## Project.
 - The machine learning model was created using Jupyter Notebook. We imported all the necessary dependencies,
 
-<img width="1009" alt="Project_Dependencies" src="https://user-images.githubusercontent.com/25447945/141702489-f92fee95-df97-4a90-b5e9-cfba5246585a.png">
+![Capture](https://user-images.githubusercontent.com/83738699/142089716-e81a983a-2caa-4bcb-a9b9-498fa6e0c778.PNG)
 
   and then used sqlalchemy to connect our database with the machine learning model.
   
