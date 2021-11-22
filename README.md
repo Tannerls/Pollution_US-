@@ -19,7 +19,7 @@
   <img width="1029" alt="Splitandfeatures" src="https://user-images.githubusercontent.com/25447945/141702697-c90e64d6-05ff-4e20-a699-2ea2fb9e4a35.png">
   
 - Linear_Regression Model:
-- 
+<img width="443" alt="Linear_Regression" src="https://user-images.githubusercontent.com/25447945/142797772-99c7b6ab-3a39-4c1f-b45e-ddf64113d01f.png"> 
 - Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extract data, and           transform it into data frames. 
 - Used Tableau to create dashboard to portray our visualization about the pollution in US and, then discuss the most and least polluted city in US. 
 
