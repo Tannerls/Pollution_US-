@@ -34,4 +34,5 @@
 - CSV, Tableau, Jupyter Notebook, pgAdmin, AWS RDS.
 - NRDC.org (National Resources Defence Council)
 - [link to dashboard](https://public.tableau.com/app/profile/charity.thuku/viz/PollutionintheUS_/PollutionintheUS)
+- [link to presentation](https://docs.google.com/presentation/d/1UGTwaaK8IIdT6UrpURS35Q7lxQieQtfCRig6affKTI8/edit?usp=sharing)
 
