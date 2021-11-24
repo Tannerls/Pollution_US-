@@ -18,12 +18,23 @@
   
   <img width="1029" alt="Splitandfeatures" src="https://user-images.githubusercontent.com/25447945/141702697-c90e64d6-05ff-4e20-a699-2ea2fb9e4a35.png">
   
-- Linear_Regression Model:
-<img width="443" alt="Linear_Regression" src="https://user-images.githubusercontent.com/25447945/142797772-99c7b6ab-3a39-4c1f-b45e-ddf64113d01f.png"> 
+**Linear_Regression Model:**
+- Most Polluted Cities.
+![image](https://user-images.githubusercontent.com/85714314/143152357-0fee6bcf-446e-40bd-8fb3-00158642ca36.png)
+- Least Polluted Cities.
+![image](https://user-images.githubusercontent.com/85714314/143152391-35519a84-bd95-452b-9b25-e13c6a5001c5.png)
+
 - Created a database using Amazon Web Services RDS and linked it to pgAdmin to edit the data. Using PostGresSQL, we were able to upload the csv file, extract data, and           transform it into data frames. 
 - Used Tableau to create dashboard to portray our visualization about the pollution in US and, then discuss the most and least polluted city in US. 
 
 ## Summary.
+- For least polluted cities, due to the fact that there wasn’t a trend, we couldn’t accurately predict the CO_AQI levels for upcoming years.
+- For most polluted cities, there is a negative trend as the years go by thus we predicted that in upcoming years, the CO_AQI levels would decrease.
+- If the dataset if refined further, we could have more accurate results and better predict future CO_AQI levels.
+
+**Limitations**
+- Our dataset included CO_AQI levels for each day of the year instead of the average for each year. 
+- Environmental factors such as wind, location, altitude, can affect the CO_AQI levels.
 
 
 
